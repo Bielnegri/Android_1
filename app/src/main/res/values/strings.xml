@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ex3</string>
+    <string name="instrucoes">Insira dois números inteiros</string>
+    <string name="numero1">1º Número</string>
+    <string name="numero2">2º Número</string>
+    <string name="resultado">Resultado</string>
+    <string name="verificarMaior">Verificar maior valor</string>
+    <string name="calcularSoma">Calculate the sum of odd numbers</string>
+</resources>

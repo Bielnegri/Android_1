@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ex3</string>
+    <string name="instrucoes">Insert two integer numbers</string>
+    <string name="numero1">1º Number</string>
+    <string name="numero2">2º Number</string>
+    <string name="resultado">Result</string>
+    <string name="verificarMaior">Check larger value</string>
+    <string name="calcularSoma"> </string>
+</resources>
